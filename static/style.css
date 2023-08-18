@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+nav ul{
+    display:flex;
+list-style: none;
+}
+nav ul a{
+    text-decoration: none;
+    padding: 32px;
+}
